@@ -12,6 +12,7 @@ public class EstructuraDatos1 {
                 System.out.println("El valor máximo es "+ Byte.MAX_VALUE);
                 System.out.println("El valor minimo es "+ Byte.MIN_VALUE);
                 System.out.println(" ");
+                System.out.println("HOLA CHUPAPIJAS");
                 
                 System.out.println("VALORES EN SHORT");
                 System.out.println("El tamaño en bits es "+ Short.SIZE);
